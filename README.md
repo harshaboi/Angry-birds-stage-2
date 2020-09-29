@@ -1,2 +1,2 @@
-# Angry-birds-stage-2
-The second stage of angry birds.
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
